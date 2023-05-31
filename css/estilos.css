@@ -1,11 +1,13 @@
+body {
+    background-color:rgb(16, 26, 26);
+    width: 180px;
+}
+
+
 h1 {
-    color:blueviolet;
+    color:rgb(215, 177, 250);
 }
 
 p {
     color:azure;
-}
-
-body {
-    background-color:rgb(16, 26, 26);
 }
